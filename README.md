@@ -11,7 +11,7 @@ One of the projects I chose was to design a Krabby-copter. The inspiration came 
 https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/5ca98ce1-bca1-45b1-aa9c-67218fcf4fb7
 
 ## Mirana in 3D
-Another project was to design my dog in 3D.
+Another project was to design my dog, Mirana, in 3D.
 
 ![Mirana](https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/d56af34c-c24e-4398-8599-3e0048830027)
 
