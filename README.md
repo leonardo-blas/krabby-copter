@@ -13,7 +13,7 @@ https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/5
 ## Mirana in 3D
 Another project was to design my dog, Mirana, in 3D.
 
-![Mirana](https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/d56af34c-c24e-4398-8599-3e0048830027)
+![Mirana](https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/4d962992-38ef-4b84-bf6b-823df1a72c3d)
 
 ![hand drawn Mirana](https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/d97a5bb4-e280-409e-9c3e-96814d060b73)
 
