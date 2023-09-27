@@ -8,4 +8,4 @@ A Krabby-copter in CAD. The inspiration came form the Krabby mobile from the Spo
 https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/5ca98ce1-bca1-45b1-aa9c-67218fcf4fb7
 
 ## Credits
-Credits to Leonardo Blas, Brandon Choy.
+Leonardo Blas, Brandon Choy.
