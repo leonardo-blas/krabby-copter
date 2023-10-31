@@ -1,5 +1,5 @@
 # Krabby-copter
-A Krabby-copter in CAD. The inspiration came from the Krabby mobile from the SpongeBob SquarePants movie.
+A Krabby-copter in CAD. The inspiration came from the Patty Wagon from the SpongeBob SquarePants movie.
 
 ![Krabby-copter inspuration](https://github.com/leonardo-blas/engineering-graphics-college/assets/125172895/a9f81d53-4601-475a-aca7-dd0b6e960257)
 
